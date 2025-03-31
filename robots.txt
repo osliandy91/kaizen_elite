@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /tmp/
+Allow: /
+
+Sitemap: https://www.pegasuswoodwork.com/sitemap.xml
+
