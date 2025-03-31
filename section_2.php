@@ -9,14 +9,9 @@
             </div>
         </div>
 
-        <div class="col-lg-12 text-center" style="margin-top:30px">
-            <iframe width="800" height="500"
-                    src="assets/video/cambios.mp4"
-                    frameborder="0"
-                    allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen>
-            </iframe>
-        </div>
+        <?php
+        include_once 'gallery_auto.php'
+        ?>
 
 
         <div class="col-lg-12 text-center" style="margin-top: 15px">

@@ -112,6 +112,7 @@
                         src="assets/video/1.mp4"
                         frameborder="0"
                         allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        loading="lazy"
                         allowfullscreen>
                 </iframe>
             </div>
@@ -121,6 +122,7 @@
                         src="assets/video/2.mp4"
                         frameborder="0"
                         allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        loading="lazy"
                         allowfullscreen>
                 </iframe>
             </div>
@@ -130,6 +132,7 @@
                         src="assets/video/3.mp4"
                         frameborder="0"
                         allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        loading="lazy"
                         allowfullscreen>
                 </iframe>
             </div>
@@ -139,6 +142,7 @@
                         src="assets/video/4.mp4"
                         frameborder="0"
                         allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
+                        loading="lazy"
                         allowfullscreen>
                 </iframe>
             </div>
