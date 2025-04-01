@@ -8,12 +8,11 @@
                 <i class="fa-solid fa-angles-down fa-3x arrow"></i>
             </div>
         </div>
+        <br>
 
         <div class="video-gallery" data-aos="zoom-int" data-aos-delay="500">
-        <div class="video-wrapper">
             <iframe id="customVideo" src="assets/video/cambios.mp4" class="video">
             </iframe>
-        </div>
         </div>
 
 
