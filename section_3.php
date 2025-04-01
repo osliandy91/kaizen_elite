@@ -112,21 +112,19 @@
             </div>
 
         <div class="video-gallery" >
-            <video class="video-item" controls data-aos="zoom-in" data-aos-delay="500">
-                <source src="assets/video/1.mp4" type="video/mp4">
-            </video>
+            <iframe class="video-item"  src="assets/video/1.mp4" data-aos="zoom-in" data-aos-delay="500">
+            </iframe>
 
-            <video class="video-item" controls data-aos="zoom-in" data-aos-delay="500">
-                <source src="assets/video/2.mp4" type="video/mp4">
-            </video>
+            <iframe class="video-item" src="assets/video/2.mp4" data-aos="zoom-in" data-aos-delay="500">
 
-            <video class="video-item" controls data-aos="zoom-in" data-aos-delay="500">
-                <source src="assets/video/3.mp4" type="video/mp4">
-            </video>
+            </iframe>
 
-            <video class="video-item" controls data-aos="zoom-in" data-aos-delay="500">
-                <source src="assets/video/4.mp4" type="video/mp4">
-            </video>
+            <iframe class="video-item" src="assets/video/3.mp4" data-aos="zoom-in" data-aos-delay="500">
+
+            </iframe>
+
+            <iframe class="video-item"  src="assets/video/4.mp4" data-aos="zoom-in" data-aos-delay="500">
+            </iframe>
         </div>
 
         <style>
@@ -135,7 +133,6 @@
                 flex-wrap: wrap;
                 justify-content: center;
                 gap: 15px;
-                padding: 20px;
             }
 
             .video-item {
