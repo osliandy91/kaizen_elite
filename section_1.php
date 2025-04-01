@@ -6,16 +6,15 @@
             <h1 style="font-size: 3.0em" class="mb-4" data-aos="fade-right" data-aos-delay="500">DESCUBRE CÓMO EL MÉTODO
                 <span style="color: orange">ELEVATE 6D</span> TRANSFORMA TU CUERPO Y VIDA CUANDO OTROS FALLAN
             </h1>
-            <h2 style="font-size: 2.5em" data-aos="fade-left" data-aos-delay="500">
+            <h2 style="font-size: 2.5em" data-aos="fade-right" data-aos-delay="500">
                 DEJA DE PERDER TIEMPO CON OTROS MÉTODOS QUE NO FUNCIONAN
             </h2>
         </div>
 
         <br>
 
-        <div class="col-lg-12 text-center">
 
-            <div id="vidalytics_embed_WPnrk1UYiyvU3XJ6" data-aos="fade-left" data-aos-delay="500"
+            <div id="vidalytics_embed_WPnrk1UYiyvU3XJ6" data-aos="zoom-int" data-aos-delay="500"
                  style="width: 100%; position:relative; padding-top: 56.25%;"></div>
             <script type="text/javascript">
                 (function (v, i, d, a, l, y, t, c, s) {
@@ -72,8 +71,12 @@
                     });
                 })(window, document, 'Vidalytics', 'vidalytics_embed_WPnrk1UYiyvU3XJ6', 'https://fast.vidalytics.com/embeds/tDfBeW6b/WPnrk1UYiyvU3XJ6/');
             </script>
+
+
         </div>
+
     </div>
+
 </section>
 
 
