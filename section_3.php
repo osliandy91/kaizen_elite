@@ -2,9 +2,9 @@
     <div class="container px-4 px-lg-5">
         <div class="col-lg-12 text-center">
             <div class="accordion" id="kaizenAccordion">
-                <div class="accordion-item mb-3" data-aos="fade-right" data-aos-delay="400">
+                <div class="accordion-item mb-3" data-aos="fade-right" data-aos-delay="200">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen" aria-expanded="false" aria-controls="collapseKaizen" data-aos="fade-right" data-aos-delay="500">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen" aria-expanded="false" aria-controls="collapseKaizen" data-aos="fade-right" data-aos-delay="300">
                             ¿Qué incluye la academia Kaizen Elite?
                         </button>
                     </h2>
@@ -24,9 +24,9 @@
                     </div>
                 </div>
 
-                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="400">
+                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="200">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen2" aria-expanded="false" aria-controls="collapseKaizen2" data-aos="fade-right" data-aos-delay="500">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen2" aria-expanded="false" aria-controls="collapseKaizen2" data-aos="fade-right" data-aos-delay="300">
                             ¿Cómo me ayudará la comunidad?
                         </button>
                     </h2>
@@ -41,9 +41,9 @@
                     </div>
                 </div>
 
-                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="400">
+                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="200">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen3" aria-expanded="false" aria-controls="collapseKaizen3" data-aos="fade-right" data-aos-delay="500">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen3" aria-expanded="false" aria-controls="collapseKaizen3" data-aos="fade-right" data-aos-delay="300">
                             ¿Qué tipo de estrategias de fitness aprenderé?
                         </button>
                     </h2>
@@ -58,7 +58,7 @@
                     </div>
                 </div>
 
-                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="400">
+                <div class="accordion-item mb-3"  data-aos="fade-right" data-aos-delay="200">
                     <h2 class="accordion-header text-center" >
                         <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen4" aria-expanded="false" aria-controls="collapseKaizen4" data-aos="fade-right" data-aos-delay="500">
                             ¿Kaizen Elite también funciona para mujeres?
@@ -106,25 +106,33 @@
         <br>
         <br>
             <div class="col-lg-12 text-center" style="margin-top: 20px">
-                <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="500">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
-                <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="500">¡Tú podrías ser el próximo!</h1>
+                <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
+                <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">¡Tú podrías ser el próximo!</h1>
                 <br>
             </div>
 
         <div class="video-gallery" >
-            <iframe class="video-item"  src="assets/video/1.mp4" data-aos="zoom-in" data-aos-delay="500">
-            </iframe>
 
-            <iframe class="video-item" src="assets/video/2.mp4" data-aos="zoom-in" data-aos-delay="500">
+            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+                <source src="assets/video/1.mp4" type="video/mp4">
+                Tu navegador no soporta videos en HTML5.
+            </video>
 
-            </iframe>
+            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+                <source src="assets/video/2.mp4" type="video/mp4">
+                Tu navegador no soporta videos en HTML5.
+            </video>
 
-            <iframe class="video-item" src="assets/video/3.mp4" data-aos="zoom-in" data-aos-delay="500">
+            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+                <source src="assets/video/3.mp4" type="video/mp4">
+                Tu navegador no soporta videos en HTML5.
+            </video>
 
-            </iframe>
+            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+                <source src="assets/video/4.mp4" type="video/mp4">
+                Tu navegador no soporta videos en HTML5.
+            </video>
 
-            <iframe class="video-item"  src="assets/video/4.mp4" data-aos="zoom-in" data-aos-delay="500">
-            </iframe>
         </div>
 
         <style>
@@ -135,9 +143,13 @@
                 gap: 15px;
             }
 
-            .video-item {
-                width: 320px;
-                border-radius: 10px;
+            .video {
+                max-width: 100%; /* Para que no se salga del contenedor */
+                max-height: 500px; /* Ajusta la altura máxima según necesites */
+                width: auto; /* Mantiene la proporción */
+                height: auto;
+                display: block; /* Evita espacios extra */
+                margin: 0 auto; /* Centra el video si es necesario */
             }
         </style>
 
