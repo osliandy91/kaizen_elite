@@ -11,14 +11,15 @@
                     <div id="collapseKaizen" class="accordion-collapse collapse" data-bs-parent="#kaizenAccordion">
                         <div class="accordion-body text-start">
                             <ul class="list-unstyled">
-                                <li class="mb-3"><i class="fa-solid fa-video me-2 text-warning"></i> Acceso a módulos exclusivos en video 🎥</li>
-                                <li class="mb-3"><i class="fa-solid fa-comments me-2 text-danger"></i> Videollamadas semanales de Preguntas y Respuestas 📞</li>
+                                <li class="mb-3"><i class="fa-solid fa-video me-2 text-warning"></i> Acceso completo a módulos exclusivos en video de nutrición, entrenamiento, superación personal, optimización hormonal (TRT, Ciclos, Antiedad, Cuidado de Salud)🧪 para que aprendas y logres tus objetivos de manera correcta. 🎥</li>
+                                <li class="mb-3"><i class="fa-solid fa-comments me-2 text-danger"></i> Videollamadas semanales de Preguntas y Respuestas con Eduardo📞</li>
                                 <li class="mb-3"><i class="fa-solid fa-utensils me-2 text-success"></i> Recetas deliciosas para volumen o definición 🍽️</li>
                                 <li class="mb-3"><i class="fa-brands fa-telegram me-2 text-primary"></i> Comunidad privada exclusiva de Telegram 🌍</li>
-                                <li class="mb-3"><i class="fa-solid fa-dumbbell me-2 text-warning"></i> Entrenamientos mensuales para máximo desarrollo 💪</li>
-                                <li class="mb-3"><i class="fa-solid fa-book-open me-2 text-info"></i> Guías descargables PDF 📚</li>
+                                <li class="mb-3"><i class="fa-solid fa-dumbbell me-2 text-warning"></i> Entrenamientos mensuales para máximo desarrollo muscular 💪</li>
+                                <li class="mb-3"><i class="fa-solid fa-book-open me-2 text-info"></i> Guías descargables PDF de biohacking, suplementación y antienvejecimiento 📚</li>
                                 <li class="mb-3"><i class="fa-solid fa-gift me-2 text-danger"></i> Sorteos con premios exclusivos 🎁</li>
-                                <li class="mb-3"><i class="fa-solid fa-lock me-2 text-dark"></i> Contenido educativo exclusivo 🔒</li>
+                                <li class="mb-3"><i class="fa-solid fa-question me-2 text-danger"></i> Test para que puedas aprender más y comprobar tus conocimientos 📄</li>
+                                <li class="mb-3"><i class="fa-solid fa-lock me-2 text-dark"></i> Contenido educativo exclusivo con actualizaciones mensuales 🔒</li>
                             </ul>
                         </div>
                     </div>
@@ -114,25 +115,26 @@
 
         <div class="video-gallery" >
 
-            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+            <video id="video1" class="video-js vjs-default-skin" controls preload="none" width="640" height="360"
+                   poster="assets/video/1.png" data-aos="zoom-in" data-aos-delay="300">
                 <source src="assets/video/1.mp4" type="video/mp4">
-                Tu navegador no soporta videos en HTML5.
             </video>
 
-            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+            <video id="video2" class="video-js vjs-default-skin" controls preload="none" width="640" height="360"
+                   poster="assets/video/2.png" data-aos="zoom-in" data-aos-delay="300">
                 <source src="assets/video/2.mp4" type="video/mp4">
-                Tu navegador no soporta videos en HTML5.
             </video>
 
-            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+            <video id="video3" class="video-js vjs-default-skin" controls preload="none" width="640" height="360"
+                   poster="assets/video/3.png" data-aos="zoom-in" data-aos-delay="300">
                 <source src="assets/video/3.mp4" type="video/mp4">
-                Tu navegador no soporta videos en HTML5.
             </video>
 
-            <video id="customVideo" class="video" controls data-aos="zoom-in" data-aos-delay="300">
+            <video id="video4" class="video-js vjs-default-skin" controls preload="none" width="640" height="360"
+                   poster="assets/video/4.png" data-aos="zoom-in" data-aos-delay="300">
                 <source src="assets/video/4.mp4" type="video/mp4">
-                Tu navegador no soporta videos en HTML5.
             </video>
+
 
         </div>
 
@@ -262,8 +264,18 @@
                 </h1>
             <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">Asegura tu precio antes de que aumente</h1>
         </div>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.5.2/video-js.min.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.5.2/video.min.js"></script>
 
-
+        <script>
+            document.addEventListener("DOMContentLoaded", function () {
+                videojs('video_cambio');
+                videojs('video1');
+                videojs('video2');
+                videojs('video3');
+                videojs('video4');
+            });
+        </script>
 
 
 </section>

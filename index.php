@@ -5,14 +5,8 @@ include_once "head.php";
 $section = isset($_GET['page']) ? $_GET['page'] : 'home';
 
 switch ($section) {
-    case 'about':
-        include_once "about.php";
-        break;
-    case 'faq':
-        include_once "faq.php";
-        break;
-    case 'contact':
-        include_once "contact_form.php";
+    case 'about_me':
+        include_once "section_about.php";
         break;
     default:
         include_once "section_1.php";
