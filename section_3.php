@@ -86,12 +86,17 @@
                 }
 
                 .accordion-button:hover {
-                    background-color: #ffc107;
+                    background-color: #e1e1e1;
                 }
 
                 .accordion-body {
                     font-size: 1.1em;
                     line-height: 1.6;
+                }
+
+                li {
+                    font-family: "Saira ExtraCondensed", sans-serif;
+                    font-size: 1.3em ;
                 }
             </style>
 
@@ -101,56 +106,45 @@
         <br>
         <br>
             <div class="col-lg-12 text-center" style="margin-top: 20px">
-                <h1 style="font-size: 3.5em; color: orange" class="mb-4">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
-                <h3>¡Tú podrías ser el próximo!</h3>
+                <h1 style="font-size: 2.5em; color: orange" class="mb-4">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
+                <h1 style="font-size: 2em;">¡Tú podrías ser el próximo!</h1>
                 <br>
             </div>
 
-        <div class="row" style="margin-top:30px; display: flex; justify-content: space-between;">
-            <div class="col-md-6 text-center" style="padding: 5px;">
-                <iframe width="100%" height="200"
-                        src="assets/video/1.mp4"
-                        frameborder="0"
-                        allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        loading="lazy"
-                        allowfullscreen>
-                </iframe>
-            </div>
+        <div class="video-gallery">
+            <video class="video-item" controls>
+                <source src="assets/video/1.mp4" type="video/mp4">
+            </video>
 
-            <div class="col-md-6 text-center" style="padding: 5px;">
-                <iframe width="100%" height="200"
-                        src="assets/video/2.mp4"
-                        frameborder="0"
-                        allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        loading="lazy"
-                        allowfullscreen>
-                </iframe>
-            </div>
+            <video class="video-item" controls>
+                <source src="assets/video/2.mp4" type="video/mp4">
+            </video>
 
-            <div class="col-md-6 text-center" style="padding: 5px;">
-                <iframe width="100%" height="200"
-                        src="assets/video/3.mp4"
-                        frameborder="0"
-                        allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        loading="lazy"
-                        allowfullscreen>
-                </iframe>
-            </div>
+            <video class="video-item" controls>
+                <source src="assets/video/3.mp4" type="video/mp4">
+            </video>
 
-            <div class="col-md-6 text-center" style="padding: 5px;">
-                <iframe width="100%" height="200"
-                        src="assets/video/4.mp4"
-                        frameborder="0"
-                        allow=" autoplay; encrypted-media; gyroscope; picture-in-picture"
-                        loading="lazy"
-                        allowfullscreen>
-                </iframe>
-            </div>
+            <video class="video-item" controls>
+                <source src="assets/video/4.mp4" type="video/mp4">
+            </video>
         </div>
 
+        <style>
+            .video-gallery {
+                display: flex;
+                flex-wrap: wrap;
+                justify-content: center;
+                gap: 15px;
+                padding: 20px;
+            }
+
+            .video-item {
+                width: 320px;
+                border-radius: 10px;
+            }
+        </style>
 
 
-    </div>
 
 
 </section>
