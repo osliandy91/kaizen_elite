@@ -55,9 +55,9 @@
         <p class="kaizen-text final-text" data-aos="fade-up" data-aos-delay="1400">
             Su filosofía es simple, pero poderosa:
         </p>
-        <blockquote class="quote" data-aos="fade-up" data-aos-delay="1500">
+        <p class="kaizen-text final-text" data-aos="fade-up" data-aos-delay="1500" style="font-style: italic">
             “No soy especial. Solo tomé una decisión y la defendí todos los días con acción. Y si yo pude, tú también puedes.”
-        </blockquote>
+        </p>
         <p class="kaizen-text" data-aos="fade-up" data-aos-delay="1600">
             Ahora dedica su vida a demostrar que, con estrategia, disciplina y acompañamiento correcto, cualquier persona —no importa de dónde venga— puede transformar su vida.
         </p>
@@ -74,7 +74,7 @@
     }
 
     .kaizen-title {
-        font-size: 3.5em;
+        font-size: 3.8em;
         font-weight: 700;
         letter-spacing: 3px;
         text-transform: uppercase;
@@ -83,7 +83,7 @@
     }
 
     .kaizen-text {
-        font-size: 1.5em;
+        font-size: 2em;
         line-height: 1.8;
         max-width: 800px;
         margin: 0 auto 20px;
@@ -94,7 +94,7 @@
         text-align: left;
         display: inline-block;
         margin: 30px auto;
-        font-size: 1.4em;
+        font-size: 1.9em;
         line-height: 1.8;
         font-weight: 500;
     }
@@ -110,7 +110,7 @@
     }
 
     .final-text {
-        font-size: 1.6em;
+        font-size: 1.8em;
         font-weight: 700;
         margin-top: 35px;
         text-align: center;
@@ -119,15 +119,15 @@
     /* Responsive */
     @media (max-width: 768px) {
         .kaizen-title {
-            font-size: 2.8em;
+            font-size: 3em;
         }
 
         .kaizen-text, .kaizen-list {
-            font-size: 1.3em;
+            font-size: 1.6em;
         }
 
         .final-text {
-            font-size: 1.4em;
+            font-size: 1.7em;
         }
     }
 </style>
