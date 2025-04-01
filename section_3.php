@@ -4,7 +4,7 @@
             <div class="accordion" id="kaizenAccordion">
                 <div class="accordion-item mb-3">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen" aria-expanded="false" aria-controls="collapseKaizen">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen" aria-expanded="false" aria-controls="collapseKaizen" data-aos="fade-left" data-aos-delay="500">
                             ¿Qué incluye la academia Kaizen Elite?
                         </button>
                     </h2>
@@ -26,7 +26,7 @@
 
                 <div class="accordion-item mb-3">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen2" aria-expanded="false" aria-controls="collapseKaizen2">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen2" aria-expanded="false" aria-controls="collapseKaizen2" data-aos="fade-right" data-aos-delay="500">
                             ¿Cómo me ayudará la comunidad?
                         </button>
                     </h2>
@@ -43,7 +43,7 @@
 
                 <div class="accordion-item mb-3">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen3" aria-expanded="false" aria-controls="collapseKaizen3">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen3" aria-expanded="false" aria-controls="collapseKaizen3" data-aos="fade-left" data-aos-delay="500">
                             ¿Qué tipo de estrategias de fitness aprenderé?
                         </button>
                     </h2>
@@ -60,7 +60,7 @@
 
                 <div class="accordion-item mb-3">
                     <h2 class="accordion-header text-center">
-                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen4" aria-expanded="false" aria-controls="collapseKaizen4">
+                        <button class="accordion-button fw-bold text-center text-black" type="button" data-bs-toggle="collapse" data-bs-target="#collapseKaizen4" aria-expanded="false" aria-controls="collapseKaizen4" data-aos="fade-right" data-aos-delay="500">
                             ¿Kaizen Elite también funciona para mujeres?
                         </button>
                     </h2>
@@ -106,25 +106,25 @@
         <br>
         <br>
             <div class="col-lg-12 text-center" style="margin-top: 20px">
-                <h1 style="font-size: 2.5em; color: orange" class="mb-4">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
-                <h1 style="font-size: 2em;">¡Tú podrías ser el próximo!</h1>
+                <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-left" data-aos-delay="500">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
+                <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="500">¡Tú podrías ser el próximo!</h1>
                 <br>
             </div>
 
-        <div class="video-gallery">
-            <video class="video-item" controls>
+        <div class="video-gallery" >
+            <video class="video-item" controls data-aos="fade-left" data-aos-delay="500">
                 <source src="assets/video/1.mp4" type="video/mp4">
             </video>
 
-            <video class="video-item" controls>
+            <video class="video-item" controls data-aos="fade-right" data-aos-delay="500">
                 <source src="assets/video/2.mp4" type="video/mp4">
             </video>
 
-            <video class="video-item" controls>
+            <video class="video-item" controls data-aos="fade-left" data-aos-delay="500">
                 <source src="assets/video/3.mp4" type="video/mp4">
             </video>
 
-            <video class="video-item" controls>
+            <video class="video-item" controls data-aos="fade-right" data-aos-delay="500">
                 <source src="assets/video/4.mp4" type="video/mp4">
             </video>
         </div>

@@ -5,3 +5,6 @@
 <!-- Bootstrap core JS-->
 <script src="js/bootstrap.js"></script>
 <!-- Core theme JS-->
+<script>
+    AOS.init();
+</script>

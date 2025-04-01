@@ -1,18 +1,21 @@
 <section class="page-section text-white" style="background-color: #0a111c">
     <div class="container px-4 px-lg-5">
         <div class="col-lg-12 text-center">
-            <img src="assets/img/logo_kaizen.PNG" width="230" height="175" style="background-color: #0a111c">
-            <br>
-            <br>
-            <h1 style="font-size: 3.0em" class="mb-4">DESCUBRE CÓMO EL MÉTODO <span
-                        style="color: orange">ELEVATE 6D</span> TRANSFORMA TU CUERPO Y VIDA CUANDO OTROS FALLAN</h1>
-            <h2 style="font-size: 2.5em">DEJA DE PERDER TIEMPO CON OTROS MÉTODOS QUE NO FUNCIONAN </h2>
+            <img src="assets/img/logo_kaizen.PNG" width="230" height="175" style="background-color: #0a111c" data-aos="fade-up" data-aos-delay="500">
+            <br><br>
+            <h1 style="font-size: 3.0em" class="mb-4" data-aos="fade-right" data-aos-delay="500">DESCUBRE CÓMO EL MÉTODO
+                <span style="color: orange">ELEVATE 6D</span> TRANSFORMA TU CUERPO Y VIDA CUANDO OTROS FALLAN
+            </h1>
+            <h2 style="font-size: 2.5em" data-aos="fade-left" data-aos-delay="500">
+                DEJA DE PERDER TIEMPO CON OTROS MÉTODOS QUE NO FUNCIONAN
+            </h2>
         </div>
+
         <br>
 
         <div class="col-lg-12 text-center">
 
-            <div id="vidalytics_embed_WPnrk1UYiyvU3XJ6"
+            <div id="vidalytics_embed_WPnrk1UYiyvU3XJ6" data-aos="fade-left" data-aos-delay="500"
                  style="width: 100%; position:relative; padding-top: 56.25%;"></div>
             <script type="text/javascript">
                 (function (v, i, d, a, l, y, t, c, s) {
