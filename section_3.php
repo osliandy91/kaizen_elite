@@ -179,7 +179,7 @@
                     <li><i class="fas fa-lock"></i> Cancela cuando gustes, libre de riesgo.</li>
                 </ul>
 
-                <a href="#" class="button">VOY A MEJORAR</a>
+                <a href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" class="button">VOY A MEJORAR</a>
 
                 <p class="lock-text"><i class="fas fa-dollar-sign"></i> Asegura tu precio antes de que suba. <span>Actua rápido.</span></p>
             </div>
