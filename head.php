@@ -4,11 +4,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <meta name="author" content="" />
-    <title>Kaizen Elite Academia | Muebles de Cocina y Baños en Miami</title>
-    <meta name="description" content="Pegasus Wood Work Corp: Fabricación de muebles de cocina, baños y carpintería personalizada en Miami. Diseño y calidad garantizados." />
-    <meta name="keywords" content="muebles de cocina, muebles de baño, carpintería en Miami, Pegasus Wood Work, muebles personalizados" />
-    <link rel="canonical" href="https://www.pegasuswoodwork.com/" />
+    <meta name="kaizen" content="" />
+    <title>Kaizen Elite Academia | La única academia donde transformas tu físico, mente y disciplina al nivel de un verdadero atleta de élite.</title>
+    <meta name="description" content="Kaizen Elite Academia:  La única academia donde transformas tu físico, mente y disciplina al nivel de un verdadero atleta de élite" />
+    <meta name="keywords" content="entrenamiento, dietas, nutrición, gym en Miami, Kaizen Elite Academia, asesoramiento hormonal personalizados" />
+    <link rel="canonical" href="https://www.kaizeneliteacademia.com/" />
 
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
@@ -29,9 +29,9 @@
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
             "name": "Kaizen Elite Academia",
-            "url": "https://www.pegasuswoodwork.com",
-            "logo": "https://www.pegasuswoodwork.com/assets/img/logo.png",
-            "description": "Fabricamos muebles de cocina y baño en Miami con diseños personalizados y materiales de calidad.",
+            "url": "https://www.kaizeneliteacademia.com",
+            "logo": "https://www.kaizeneliteacademia.com/assets/img/logo.png",
+            "description": "La única academia donde transformas tu físico, mente y disciplina al nivel de un verdadero atleta de élite.",
             "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "2445w #1",
@@ -42,7 +42,7 @@
             },
             "telephone": "+1 7863409142",
             "openingHours": "Mo-Fr 09:00-18:00",
-            "image": "https://www.pegasuswoodwork.com/assets/img/logo.png"
+            "image": "https://www.kaizeneliteacademia.com/assets/img/logo.png"
         }
     </script>
 
