@@ -154,6 +154,115 @@
         </style>
 
 
+        <div class="col-lg-12 text-center" style="margin-top: 6em">
+            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">Solo podemos mostrarte la puerta.</h1>
+            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">La Decisión es Tuya</h1>
+
+        </div>
+
+
+
+
+        <div class="col-lg-12 text-center" style="margin-top: 6em; display: flex;flex-wrap: wrap;flex-direction: column;align-content: center;">
+            <div class="card" data-aos="zoom-in" data-aos-delay="300">
+                <h2>TOMA ACCIÓN</h2>
+                <p>Necesitas actuar ahora.</p>
+                <p><span class="old-price">$147</span> <span class="price">$47.99</span></p>
+
+                <ul class="features">
+                    <li><i class="fas fa-check"></i> Lecciones paso a paso</li>
+                    <li><i class="fas fa-check"></i> Todo para naturales y dopados</li>
+                    <li><i class="fas fa-check"></i> Acceso a videos exclusivos</li>
+                    <li><i class="fas fa-check"></i> No necesitas experiencia</li>
+                    <li><i class="fas fa-video-camera"></i> Videollamadas semanales </li>
+                    <li><i class="fas fa-lock"></i> Cancela cuando gustes, libre de riesgo.</li>
+                </ul>
+
+                <a href="#" class="button">VOY A MEJORAR</a>
+
+                <p class="lock-text"><i class="fas fa-dollar-sign"></i> Asegura tu precio antes de que suba. <span>Actua rápido.</span></p>
+            </div>
+
+            <style>
+                .card {
+                    background-color: #151821;
+                    color: white;
+                    width: 400px;
+                    padding: 25px;
+                    border-radius: 10px;
+                    text-align: center;
+                    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+                }
+                .card h2 {
+                    font-size: 2.5em;
+                    font-weight: bold;
+                }
+                .card p {
+                    font-size: 1.5em;
+                    margin: 5px 0 15px;
+                }
+                .price {
+                    font-size: 2em;
+                    font-weight: bold;
+                    color: #FFA500FF;
+                }
+                .old-price {
+                    font-size: 2em;
+                    color: gray;
+                    text-decoration: line-through;
+                    margin-right: 5px;
+                }
+                .features {
+                    text-align: left;
+                    margin-top: 2em;
+                }
+                .features li {
+                    list-style: none;
+                    margin: 8px 0;
+                    font-size: 1.8em;
+                }
+                .features li i {
+                    color: #FFA500FF;
+                    margin-right: 8px;
+                }
+                .button {
+                    display: block;
+                    background-color: #FFA500FF;
+                    color: black;
+                    text-decoration: none;
+                    padding: 12px;
+                    font-weight: bold;
+                    border-radius: 5px;
+                    margin: 15px 0;
+                    transition: 0.3s;
+                    font-size: 2em;
+                }
+                .button:hover {
+                    background-color: #FFA500FF;
+                }
+                .lock-text {
+                    font-size: 2em;
+                    color: gray;
+                    margin-top: 10px;
+                }
+                .lock-text span {
+                    color: #FFA500FF;
+                    font-weight: bold;
+                }
+            </style>
+
+        </div>
+
+        <div class="col-lg-12 text-center" style="margin-top: 3em">
+            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">O NO HAGAS NADA</h1>
+            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">Ve a ver Netflix y Tiktok.</h1>
+            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">El precio subirá a $147 x mes muy pronto.
+                Cientos de personas ya se han unido a Kaizen Elite y están mejorando sus físicos, mentalidad y salud.
+                </h1>
+            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">Asegura tu precio antes de que aumente</h1>
+        </div>
+
+
 
 
 </section>
