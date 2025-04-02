@@ -26,8 +26,8 @@
                 <span style="color: #ff4c4c">ELEVATE 6D™</span> según tus objetivos, funciona para naturales y los que no
                 lo son. Sin dietas extremas, sin riesgos y sin perder tiempo en métodos ineficaces.</h1>
             <br>
-            <a class="btn fw-bold animated-btn" href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" style="font-family: 'Saira ExtraCondensed', sans-serif; font-size: 3.5em; background-color: #FFA500FF" data-aos="zoom-in" data-aos-delay="300">QUIERO MEJORAR YA</a>
-        </div>
+            <a href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" class="button" data-aos="zoom-in" data-aos-delay="300">QUIERO MEJORAR YA</a>
+       </div>
     </div>
 
 
