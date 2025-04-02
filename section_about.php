@@ -68,7 +68,7 @@
 <style>
     /* Estilos Generales */
     .page-section {
-        background-color: #0a111c;
+        background-color: #000000;
         padding: 6em 1em;
         font-family: "Saira ExtraCondensed", sans-serif;
     }
@@ -79,7 +79,7 @@
         letter-spacing: 3px;
         text-transform: uppercase;
         margin-bottom: 30px;
-        color: #ffcc00;
+        color: #ff4c4c;
     }
 
     .kaizen-text {
@@ -105,7 +105,7 @@
     }
 
     .highlight {
-        color: #ffcc00;
+        color: #ff4c4c;
         font-weight: 700;
     }
 

@@ -34,8 +34,8 @@
 
 <style>
     .footer {
-        background-color: #183370;
-        border-top: 4px solid #ffcc00;
+        background-color: #000000;
+        border-top: 4px solid #ff4c4c;
     }
 
     .social-link {
@@ -52,11 +52,11 @@
     }
 
     .social-link:hover {
-        color: #ffcc00;
+        color: #ff4c4c;
     }
 
     .footer-link {
-        color: #ffcc00;
+        color: #ff4c4c;
         text-decoration: none;
         font-size: 1.1em;
         font-weight: bold;

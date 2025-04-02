@@ -50,10 +50,6 @@
 
 <body id="page-top">
 
-<?php
-include_once "navbar.php";
-?>
-
 
 
 

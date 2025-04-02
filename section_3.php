@@ -1,4 +1,4 @@
-<section class="text-white" style="background-color: #0a111c; padding-bottom: 3em">
+<section class="text-white" style="background-color: #000000; padding-bottom: 3em">
     <div class="container px-4 px-lg-5">
         <div class="col-lg-12 text-center">
             <div class="accordion" id="kaizenAccordion">
@@ -108,8 +108,8 @@
         <br>
         <br>
             <div class="col-lg-12 text-center" style="margin-top: 20px">
-                <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
-                <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">¡Tú podrías ser el próximo!</h1>
+                <h1 style="font-size: 2.5em; color: #ff4c4c" class="mb-4" data-aos="fade-right" data-aos-delay="300">DESCUBRE CÓMO KAIZEN ELITE HA TRANSFORMADO LA VIDA DE PERSONAS QUE, AL IGUAL QUE TÚ, QUERÍAN UN CAMBIO FÍSICO SIN RIESGOS NI MÉTODOS INÚTILES.</h1>
+                <h1 style="font-size: 1.1em; font-family: 'Roboto', sans-serif" data-aos="fade-right" data-aos-delay="300">¡Tú podrías ser el próximo!</h1>
                 <br>
             </div>
 
@@ -158,8 +158,8 @@
 
 
         <div class="col-lg-12 text-center" style="margin-top: 6em">
-            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">Solo podemos mostrarte la puerta.</h1>
-            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">La Decisión es Tuya</h1>
+            <h1 style="font-size: 1.2em; font-style: italic" data-aos="fade-right" data-aos-delay="300">Solo podemos mostrarte la puerta.</h1>
+            <h1 style="font-size: 2.8em; color: #ff4c4c" class="mb-4" data-aos="fade-right" data-aos-delay="300">La Decisión es Tuya</h1>
 
         </div>
 
@@ -168,10 +168,9 @@
 
         <div class="col-lg-12 text-center" style="margin-top: 6em; display: flex;flex-wrap: wrap;flex-direction: column;align-content: center;">
             <div class="card" data-aos="zoom-in" data-aos-delay="300">
-                <h2>TOMA ACCIÓN</h2>
-                <p>Necesitas actuar ahora.</p>
+                <h2>VOY A CAMBIAR</h2>
+                <p >OFERTA ESPECIAL🔥</p>
                 <p><span class="old-price">$147</span> <span class="price">$47.99</span></p>
-
                 <ul class="features">
                     <li><i class="fas fa-check"></i> Lecciones paso a paso</li>
                     <li><i class="fas fa-check"></i> Todo para naturales y dopados</li>
@@ -183,7 +182,6 @@
 
                 <a href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" class="button">VOY A MEJORAR</a>
 
-                <p class="lock-text"><i class="fas fa-dollar-sign"></i> Asegura tu precio antes de que suba. <span>Actua rápido.</span></p>
             </div>
 
             <style>
@@ -201,31 +199,32 @@
                     font-weight: bold;
                 }
                 .card p {
-                    font-size: 1.5em;
+                    font-size: 1.0em;
                     margin: 5px 0 15px;
                 }
                 .price {
-                    font-size: 2em;
+                    font-size: 2.8em;
                     font-weight: bold;
-                    color: #FFA500FF;
+                    color: #ff4c4c;
                 }
                 .old-price {
-                    font-size: 2em;
+                    font-size: 2.8em;
                     color: gray;
                     text-decoration: line-through;
                     margin-right: 5px;
                 }
                 .features {
                     text-align: left;
-                    margin-top: 2em;
+                    margin-top: 1em;
                 }
                 .features li {
                     list-style: none;
                     margin: 8px 0;
-                    font-size: 1.8em;
+                    font-size: 1.4em;
+                    font-family: "Roboto", sans-serif;
                 }
                 .features li i {
-                    color: #FFA500FF;
+                    color: #ff4c4c;
                     margin-right: 8px;
                 }
                 .button {
@@ -257,12 +256,13 @@
         </div>
 
         <div class="col-lg-12 text-center" style="margin-top: 3em">
-            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">O NO HAGAS NADA</h1>
-            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">Ve a ver Netflix y Tiktok.</h1>
-            <h1 style="font-size: 2em;" data-aos="fade-right" data-aos-delay="300">El precio subirá a $147 x mes muy pronto.
+            <h1 style="font-size: 1.2em;font-family: 'Roboto', sans-serif " class="mb-4" data-aos="fade-right" data-aos-delay="300">Asegura tu precio</h1>
+            <h1 style="font-size: 2.5em; color: #ff4c4c" data-aos="fade-right" data-aos-delay="300">⚠️ Pronto subirá el precio</h1>
+            <h1 style="font-size: 1.1em; font-family: 'Roboto', sans-serif; font-style: italic" data-aos="fade-right" data-aos-delay="300">El precio subirá a $147 x mes muy pronto.</h1>
+            <h1 style="font-size: 1em; font-family: 'Roboto', sans-serif; font-style: italic; color: #ff4c4c" data-aos="fade-right" data-aos-delay="300">
                 Cientos de personas ya se han unido a Kaizen Elite y están mejorando sus físicos, mentalidad y salud.
                 </h1>
-            <h1 style="font-size: 2.5em; color: orange" class="mb-4" data-aos="fade-right" data-aos-delay="300">Asegura tu precio antes de que aumente</h1>
+            <h1 style="font-size: 1.8em;" class="mb-4" data-aos="fade-right" data-aos-delay="300">Asegura tu precio antes de que aumente</h1>
         </div>
         <link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.5.2/video-js.min.css" rel="stylesheet">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/8.5.2/video.min.js"></script>

@@ -1,13 +1,13 @@
-<section class="page-section text-white" style="background-color: #0a111c">
+<section class=" text-white" style="background-color: #000000 ; padding: 2em 0">
     <div class="container px-4 px-lg-5">
         <div class="col-lg-12 text-center">
-            <img src="assets/img/logo_kaizen.PNG" width="230" height="175" style="background-color: #0a111c" data-aos="fade-up" data-aos-delay="300">
+            <img src="assets/img/logo_kaizen.PNG" width="170" height="130"  data-aos="fade-up" data-aos-delay="300">
             <br><br>
-            <h1 style="font-size: 3.0em" class="mb-4" data-aos="fade-right" data-aos-delay="300">DESCUBRE CÓMO EL MÉTODO
-                <span style="color: orange">ELEVATE 6D</span> TRANSFORMA TU CUERPO Y VIDA CUANDO OTROS FALLAN
+            <h1 style="font-size: 2.5em; color: #ff4c4c" class="mb-4" data-aos="fade-right" data-aos-delay="300">DESCUBRE CÓMO EL MÉTODO
+                <span style="color: white">ELEVATE 6D</span> TRANSFORMA TU CUERPO Y VIDA CUANDO OTROS FALLAN
             </h1>
-            <h2 style="font-size: 2.5em" data-aos="fade-right" data-aos-delay="300">
-                DEJA DE PERDER TIEMPO CON OTROS MÉTODOS QUE NO FUNCIONAN
+            <h2 style="font-size: 1.1em; font-family: 'Roboto', sans-serif" data-aos="fade-right" data-aos-delay="300">
+                Deja de perder tiempo con otros métodos que no funcionan.
             </h2>
         </div>
 
