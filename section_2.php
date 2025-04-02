@@ -1,7 +1,7 @@
 <section class="text-white" style="background-color: #000000; padding-bottom: 3em">
     <div class="container px-4 px-lg-5">
         <div class="col-lg-12 text-center">
-            <h1 style="font-size: 3em" class="mb-4" data-aos="fade-right" data-aos-delay="300">Mira los Resultados que Otros Obtuvieron con Kaizen Elite</h1>
+            <h1 style="font-size: 2.3em" class="mb-4" data-aos="fade-right" data-aos-delay="300">Mira los Resultados que Otros Obtuvieron con Kaizen Elite</h1>
             <div style="color: #ff4c4c" data-aos="fade-down" data-aos-delay="300">
                 <i class="fa-solid fa-angles-down fa-3x arrow"></i>
                 <i class="fa-solid fa-angles-down fa-3x arrow"></i>
