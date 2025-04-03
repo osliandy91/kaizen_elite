@@ -13,7 +13,7 @@
     <!-- Favicon-->
     <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
     <!-- Bootstrap Icons-->
-    <link href="assets/plugins/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- Google fonts-->
     <link rel="preload" href="css/merriweatherSans.css" as="style" />
     <link href="css/merriweatther.css" rel="stylesheet" type="text/css" />

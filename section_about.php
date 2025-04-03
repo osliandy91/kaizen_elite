@@ -1,6 +1,8 @@
 <section class="page-section text-white">
     <div class="container text-center">
-        <h1 class="kaizen-title" data-aos="fade-right" data-aos-delay="300">KAIZEN ELITE ACADEMIA</h1>
+        <a href="index.php"><img src="assets/img/logo_kaizen.PNG" width="170" height="130"  data-aos="fade-up" data-aos-delay="300"></a>
+        <br>
+        <br>
         <p class="kaizen-text" data-aos="fade-up" data-aos-delay="500">
             La única academia donde transformas tu <strong>físico, mente y disciplina</strong> al nivel de un verdadero atleta de élite.
         </p>
@@ -62,6 +64,8 @@
             Ahora dedica su vida a demostrar que, con estrategia, disciplina y acompañamiento correcto, cualquier persona —no importa de dónde venga— puede transformar su vida.
         </p>
 
+        <img data-aos="fade-up" data-aos-delay="1800" class="full-screen-image" src="assets/img/eduardo.JPG" ">
+
     </div>
 </section>
 
@@ -70,7 +74,12 @@
     .page-section {
         background-color: #000000;
         padding: 6em 1em;
-        font-family: "Saira ExtraCondensed", sans-serif;
+        font-family: "Roboto", sans-serif;
+    }
+
+    .full-screen-image {
+        width: 600px;
+        height: 400px;
     }
 
     .kaizen-title {
@@ -128,6 +137,10 @@
 
         .final-text {
             font-size: 1.7em;
+        }
+        .full-screen-image {
+            width: 300px;
+            height: 200px;
         }
     }
 </style>

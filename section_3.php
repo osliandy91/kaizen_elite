@@ -20,6 +20,7 @@
                                 <li class="mb-3"><i class="fa-solid fa-gift me-2 text-danger"></i> Sorteos con premios exclusivos 🎁</li>
                                 <li class="mb-3"><i class="fa-solid fa-question me-2 text-danger"></i> Test para que puedas aprender más y comprobar tus conocimientos 📄</li>
                                 <li class="mb-3"><i class="fa-solid fa-lock me-2 text-dark"></i> Contenido educativo exclusivo con actualizaciones mensuales 🔒</li>
+                                <li class="mb-3"><i class="fa-solid fa-dollar-sign me-2 text-dark"></i>Descuentos exclusivos en todo tipo de productos ✨</li>
                             </ul>
                         </div>
                     </div>
@@ -68,6 +69,7 @@
                     <div id="collapseKaizen4" class="accordion-collapse collapse" data-bs-parent="#kaizenAccordion">
                         <div class="accordion-body text-start">
                             <ul class="list-unstyled">
+                                <li class="mb-3"><i class="fa-solid fa-rocket me-2 text-pink"></i> Kaizen Elite Academia es tanto para hombres como mujeres, cada uno tiene su entrenamiento y sala específicos para poder lograr su objetivos 💪</li>
                                 <li class="mb-3"><i class="fa-solid fa-female me-2 text-pink"></i> Planes específicos para mujeres 👩‍🎓</li>
                                 <li class="mb-3"><i class="fa-solid fa-heart me-2 text-danger"></i> Rutinas adaptadas para cada género ❤️</li>
                                 <li class="mb-3"><i class="fa-solid fa-star me-2 text-warning"></i> Resultados personalizados para cada meta 🌟</li>
@@ -97,8 +99,8 @@
                 }
 
                 li {
-                    font-family: "Saira ExtraCondensed", sans-serif;
-                    font-size: 1.3em ;
+                    font-family: "Roboto", sans-serif;
+                    font-size: 1em ;
                 }
             </style>
 
@@ -180,7 +182,7 @@
                     <li><i class="fas fa-lock"></i> Cancela cuando gustes, libre de riesgo.</li>
                 </ul>
 
-                <a href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" class="button">VOY A MEJORAR</a>
+                <a href="https://eduardo-aguila.mykajabi.com/offers/5Q3wuoBf/checkout" style="border-radius: 30px;" class="button">VOY A MEJORAR</a>
 
             </div>
 
