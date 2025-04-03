@@ -27,6 +27,9 @@
 
 
         <h1 class="kaizen-title" data-aos="fade-right" data-aos-delay="300">MI HISTORIA</h1>
+
+        <img data-aos="fade-up" data-aos-delay="400" class="full-screen-image" src="assets/img/eduardo.JPG" ">
+
         <p class="kaizen-text" data-aos="fade-up" data-aos-delay="600">
             De flaco y sin rumbo... a referente mundial en transformación física, optimización hormonal y biohacking.
         </p>
@@ -64,7 +67,6 @@
             Ahora dedica su vida a demostrar que, con estrategia, disciplina y acompañamiento correcto, cualquier persona —no importa de dónde venga— puede transformar su vida.
         </p>
 
-        <img data-aos="fade-up" data-aos-delay="1800" class="full-screen-image" src="assets/img/eduardo.JPG" ">
 
     </div>
 </section>
