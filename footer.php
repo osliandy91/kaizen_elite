@@ -1,7 +1,5 @@
 
 
-
-
 <!-- Footer-->
 <footer class="bg-light py-3">
     <div class="container px-4 px-lg-5">

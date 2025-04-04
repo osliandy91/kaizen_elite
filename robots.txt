@@ -2,7 +2,8 @@ User-agent: *
 Disallow: /admin/
 Disallow: /private/
 Disallow: /tmp/
+Disallow: /assets/
 Allow: /
 
-Sitemap: https://www.pegasuswoodwork.com/sitemap.xml
+Sitemap: https://kaizeneliteacademia.com/sitemap.xml
 

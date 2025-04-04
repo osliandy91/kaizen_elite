@@ -1,6 +1,12 @@
+
+<?php
+include_once "head.php";
+
+?>
+
 <section class="page-section text-white">
     <div class="container text-center">
-        <a href="index.php"><img src="assets/img/logo_kaizen.PNG" width="170" height="130"  data-aos="fade-up" data-aos-delay="300"></a>
+        <a href="<?= $enlace_index?>"><img src="assets/img/logo_kaizen.PNG" width="170" height="130"  data-aos="fade-up" data-aos-delay="300"></a>
         <br>
         <br>
         <p class="kaizen-text" data-aos="fade-up" data-aos-delay="500">
@@ -146,3 +152,7 @@
         }
     }
 </style>
+<?php
+include_once "footer_card.php";
+include_once "footer.php";
+?>

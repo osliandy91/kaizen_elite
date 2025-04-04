@@ -1,9 +1,10 @@
+
 <footer class="footer py-5 text-white">
     <div class="container px-4 px-lg-5">
         <div class="row gy-4 gx-lg-5 align-items-center">
             <!-- Logo y redes sociales -->
             <div class="col-12 col-md-6 d-flex flex-column flex-md-row align-items-center align-items-md-start border-md-end border-light">
-                <a href="index.php"><img src="assets/img/logo_kaizen.PNG" alt="Logo" class="footer-logo"></a>
+                <a href="<?= $enlace_index?>"><img src="assets/img/logo_kaizen.PNG" alt="Logo" class="footer-logo"></a>
                 <div class="ms-md-4 text-center text-md-start">
                     <h5 class="text-uppercase mb-3" data-i18n="footer-h4">Síguenos en redes</h5>
                     <p class="mb-3" data-i18n="footer-p">Conéctate con nosotros para más información.</p>
@@ -28,7 +29,7 @@
             <div class="col-12 col-md-6 text-center text-md-start">
                 <h5 class="text-uppercase mb-3">Enlaces</h5>
                 <p>
-                    <a class="footer-link"  href="index.php?page=about_me">Sobre mí</a>
+                    <a class="footer-link"  href="<?= $enlace_about?>">Sobre mí</a>
                 </p>
             </div>
         </div>

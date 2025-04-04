@@ -50,6 +50,15 @@
 
 <body id="page-top">
 
+<?php
+$enlace_index = 'index.php';
+$enlace_about = 'about.php';
+if(isset($_REQUEST['ref']) && $_REQUEST['ref'] != '') {
+    $ref = $_REQUEST['ref'];
+    $enlace_index .= '?ref='.$ref;
+    $enlace_about .= '?ref='.$ref;
+}
+?>
 
 
 
