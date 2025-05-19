@@ -196,6 +196,34 @@ include_once "head.php";
                 }
 
 
+                .wave-button-2 {
+                    display: inline-block;
+                    font-family: 'Montserrat', sans-serif;
+                    background-color: #e31e1e;
+                    color: white;
+                    font-size: clamp(0.8rem, 3vw, 1.6rem); /* tamaño fluido */
+                    text-decoration: none;
+                    padding: 0.8rem 1.2rem;
+                    border-radius: 10px;
+                    position: relative;
+                    animation: wave 2.5s ease-in-out infinite;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    white-space: nowrap; /* evita saltos de línea */
+                    box-shadow:
+                            0 0 10px rgba(248, 241, 193, 0.6),
+                            0 0 20px rgba(220, 217, 184, 0.4),
+                            0 0 30px rgba(251, 244, 186, 0.2),
+                            0 8px 20px rgba(0, 0, 0, 0.4); /* sombra inferior */
+                }
+
+                .wave-button-2 .highlight {
+                    font-weight: 700;
+                    margin: 0 0.3rem;
+                }
+
+
                 .wave-button .highlight {
                     font-weight: 700;
                     margin: 0 0.3rem;
@@ -209,6 +237,19 @@ include_once "head.php";
                 }
 
                 .wave-button .icon {
+                    margin: 0 0.3rem;
+                    font-size: clamp(1rem, 3vw, 1.5rem);
+                }
+
+
+                .wave-button-2 .subtext {
+                    display: block;
+                    font-size: clamp(0.8rem, 2.5vw, 1rem); /* tamaño fluido */
+                    margin-top: 0.5rem;
+                    white-space: normal; /* el subtítulo sí puede romper línea */
+                }
+
+                .wave-button-2 .icon {
                     margin: 0 0.3rem;
                     font-size: clamp(1rem, 3vw, 1.5rem);
                 }
@@ -342,7 +383,15 @@ include_once "head.php";
                     <li><i class="fas fa-lock"></i> Cancela cuando gustes, libre de riesgo.</li>
                 </ul>
 
-                <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" style="border-radius: 30px;" class="button">VOY A MEJORAR</a>
+<!--                <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" style="border-radius: 30px;" class="button">VOY A MEJORAR</a>-->
+
+                    <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" class="wave-button-2">
+                        <span class="icon">➡️</span>
+                        VOY A MEJORAR
+                        <span class="icon">⬅️</span>
+                    </a>
+
+
 
             </div>
 
