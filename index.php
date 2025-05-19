@@ -65,7 +65,18 @@ include_once "head.php";
                 <span style="color: #ff4c4c">ELEVATE 6D™</span> según tus objetivos, funciona para naturales y los que no
                 lo son. Sin dietas extremas, sin riesgos y sin perder tiempo en métodos ineficaces.</h1>
             <br>
-            <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" class="button" data-aos="zoom-in" style="border-radius: 30px;" data-aos-delay="300">QUIERO MEJORAR YA</a>
+<!--            <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" class="button" data-aos="zoom-in" style="border-radius: 30px;" data-aos-delay="300">QUIERO MEJORAR YA</a>-->
+
+
+            <div class="button-container" data-aos="zoom-in">
+                <a href="https://eduardo-aguila.mykajabi.com/resource_redirect/offers/5Q3wuoBf" class="wave-button">
+                    <span class="icon">➡️</span>
+                    QUIERO MEJORAR YA
+                    <span class="icon">⬅️</span>
+                    <div class="subtext">EL FÍSICO QUE DESEAS ESTÁ A UN CLICK DE DISTANCIA</div>
+                </a>
+            </div>
+
         </div>
     </div>
 
@@ -153,8 +164,77 @@ include_once "head.php";
                 </div>
             </div>
 
-
+            <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
             <style>
+
+
+                .button-container {
+                    text-align: center;
+                    font-family: 'Montserrat', sans-serif;
+                }
+
+
+                .wave-button {
+                    display: inline-block;
+                    background-color: #e31e1e;
+                    color: white;
+                    font-size: clamp(1rem, 4vw, 1.8rem); /* tamaño fluido */
+                    text-decoration: none;
+                    padding: 1rem 1.5rem;
+                    border-radius: 10px;
+                    position: relative;
+                    animation: wave 2.5s ease-in-out infinite;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    line-height: 1.2;
+                    white-space: nowrap; /* evita saltos de línea */
+                    box-shadow:
+                            0 0 10px rgba(248, 241, 193, 0.6),
+                            0 0 20px rgba(220, 217, 184, 0.4),
+                            0 0 30px rgba(251, 244, 186, 0.2),
+                            0 8px 20px rgba(0, 0, 0, 0.4); /* sombra inferior */
+                }
+
+
+                .wave-button .highlight {
+                    font-weight: 700;
+                    margin: 0 0.3rem;
+                }
+
+                .wave-button .subtext {
+                    display: block;
+                    font-size: clamp(0.8rem, 2.5vw, 1rem); /* tamaño fluido */
+                    margin-top: 0.5rem;
+                    white-space: normal; /* el subtítulo sí puede romper línea */
+                }
+
+                .wave-button .icon {
+                    margin: 0 0.3rem;
+                    font-size: clamp(1rem, 3vw, 1.5rem);
+                }
+
+                @keyframes wave {
+                    0%, 100% {
+                        transform: translateY(0px) rotate(0deg);
+                    }
+                    25% {
+                        transform: translateY(-3px) rotate(-1deg);
+                    }
+                    50% {
+                        transform: translateY(3px) rotate(1deg);
+                    }
+                    75% {
+                        transform: translateY(-2px) rotate(-1deg);
+                    }
+                }
+
+                /* Opcional: en móviles, margen automático para evitar bordes cortados */
+                @media (max-width: 480px) {
+                    .wave-button {
+                        padding: 0.8rem 1.2rem;
+                        max-width: 100%;
+                    }
+
 
                 .accordion-button {
                     background-color: #ffffff;
